@@ -1,1 +1,1 @@
-        1 file(s) copied.
+Image Experimental Folder
